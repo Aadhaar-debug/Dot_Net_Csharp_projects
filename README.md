@@ -1,54 +1,35 @@
-# AUTOMATING RETRO GAMES USING THE REINFROCEMENT LEARNING 
-## TEAM NAME - TEAM Trex
+# WEB BROWSER SOFTWARE SOLUTION FOR SMALL SCALE INDUSTRIES 
+## RELEASE DATE - 27-01-23
 
-- TEAM LEADER - AADHAAR KOUL (5th semester cse dept)
-- TEAM MEMBER - ARJUN CHARAK (5th semester cse dept)
-- TEAM MEMBER - SHOBIT KITCHLOO (5th semester cse dept)
-- TEAM MEMBER - SIDDHARTH BHAWANI (5th semester cse dept)
-- TEAM MEMBER - ANIL KUMAR (5th semester cse dept)
-
-CLASS COORDINATOR - ARJUN PURI
+- INVENTOR - AADHAAR KOUL , MIET JAMMU INTERN , 6TH SEMESTER , 3RD YEAR STUDENT , CSE DEPARTMENT.
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Complete Automation of some of the most renouned game titles using the reinforcement learning.
+Simple web browser for small scale organisations for privacy and integrity pourposes.
 
-- EQUAL CONTRIBUTION
+- OPEN SOURCE
 - NO PLAGIARISM
-- COPYRIGHT RESERVED TO MIET JAMMU 5TH SEMESTER CLASS A1 STUDENTS
-
+- COMMENTED CODE
 ## ABSTRACT
 
 
-General game testing relies on the use of
-human play testers, play test scripting, and prior knowledge
-of areas of interest to produce relevant test data. Using deep
-reinforcement learning (DRL), we introduce a self-learning
-mechanism to the game testing framework. With DRL, the
-framework is capable of exploring and/or exploiting the
-game mechanics based on a user-defined, reinforcing reward
-signal. As a result, test coverage is increased and unintended
-game play mechanics, exploits and bugs are discovered in
-a multitude of game types. In this paper, we show that
-DRL can be used to increase test coverage, find exploits,
-test map difficulty, and to detect common problems that
-arise in the testing of first-person shooter (FPS) games.In
-this paper, we study applying Reinforcement Learning to
-design a automatic agent to play the game Super Mario
-Bros. One of the challenge is how to handle the complex
-game environment. By abstracting the game environment
-into a state vector and using Q learning — an algorithm
-oblivious to transitional probabilities — we achieve tractable
-computation time and fast convergence. After training
-for 5000 iterations, our agent is able to win about 90
-percent of the time. We also compare and analyze the choice
-of different learning rate (alpha) and discount factor (gamma)
+Securo web browser made in C# on the .NET framework is a software application that 
+allows users to access and navigate the Internet. It is built using the C# 
+programming language and the .NET framework, which provides a rich set of 
+libraries and tools for building high-performance and scalable software. 
+This type of browser typically uses the Internet Explorer engine to render 
+web pages, providing support for the latest web standards and technologies.
+The .NET framework allows for easy integration with other .NET applications
+and provides a high level of security and stability. Examples of web browsers
+made in C# on the .NET framework include Awesomium, CefSharp, and Webkit.Net.
+These browsers offer a great alternative for users looking for a browser built
+with the Microsoft stack and provide a good performance on windows operating systems.
 
 
 ## Tech
 
-- PYTHON - V3.10 , 3.8 AND 3.7
-- PYTHON IDE
+- C# version - 11
+- Microsoft DotNet framework
 
 ## Specifications (Minimum requirement)
 
@@ -61,33 +42,29 @@ of different learning rate (alpha) and discount factor (gamma)
 NOTE : To install some of the packages the internet connectivity might be a requirement.
 
 ## IMPLEMENTATION
-# The below given implementation is done for the snake game , so use the given below instructions for your benifit.
+# The below given implementation is done for the securo browser.
 
-Open up the IDE command terminal . In our case we have used the VSCODE IDE and install the following packages:
-- pygame
+Extract the project files using a file extractor like dpkg , winrar , 7zip or what have you. I'll provide you with some of the links below . Do check them out and download your desired extractor tool. (The given link is a direct download link.)
+- Downlaod WinRar
 ```
-pip install pygame
+https://www.win-rar.com/postdownload.html?&L=0
 ```
-- numpy
+- Downlaod 7 zip
 ```
-pip install numpy
-```
-- torch
-```
-pip install torch
-```
-- matplotlib
-```
-pip install matplotlib
+https://www.guru3d.com/files-details/7-zip-download,3.html
 ```
 
-
-
-* After the above are executed head on to the agent.py file and run the python code. A pygame window should appear with the snake game on it 
-* let it run and generate some of the punishment and rewards for the until it maintains a Q- table .
-* At a certain point the snake should be able to get the rewards all the time with less errors
-* At this stage the snake Ai will be trained to play the all on its own.
-
+# I'll continue with the wnrar software but feel free to work with any tool you want.
+* After the successful downloadation of the software .
+* right click on the Securo.rar Part 1 rar file and right click on it.
+* You'll see a winrar tab in the options menu followed by an arrow .
+* Head over to that and you can either select the extract here or extract on a specific location.
+* Its better to just select the extract here option and access the files in the current directory only.
+* After all teh files have been extracted just click on the setup.exe and accept all the terms that are asked for you to accept.
+* After the above step is executed the securo browser must be installed to your computer . 
+* You can run the .exe file to execute the software or you can serach for the software with its name in the bottom windows search bar.
+* once you click on the app . It'll launch itself.
+* Have FuN !!!
 
 ## DOCUMENT AND THE PPT FILE CAN BE FOUND IN THIS REPOSITORY ONLY JUST CHECK THE REPOSITORY CONTENTS ABOVE 
 
