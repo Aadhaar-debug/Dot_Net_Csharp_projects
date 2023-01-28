@@ -71,7 +71,7 @@ https://www.guru3d.com/files-details/7-zip-download,3.html
 
 # SAMPLES / PICTURES 
 
-![Code Sample]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
+![Amazon serach result]([https://github.com/Aadhaar-debug/Dot_Net_Csharp_projects/blob/main/SecuroScreenshots/SecuroAmazonSearchss.jpg])
 ![Initial Training]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(317).png])
 ![Rewards and Punishments]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(318).png])
 
