@@ -11,7 +11,7 @@ Simple web browser for small scale organisations for privacy and integrity pourp
 - NO PLAGIARISM
 - COMMENTED CODE
 ## ABSTRACT
-
+.
 
 Securo web browser made in C# on the .NET framework is a software application that 
 allows users to access and navigate the Internet. It is built using the C# 
